@@ -1,0 +1,28 @@
+body{
+	background-color:#f0ffff;
+}
+
+.App {
+  text-align: center;
+  font-size: 50px;
+  margin-top: 20%;
+}
+
+
+.App-title { 
+  color:#dc143c;
+  font-size: 50px;
+  
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+  display: inline;
+  color:#8a2be2;
+  margin: 25px;
+}
+
+.Deadline-input {
+  font-size: 25px;
+  margin: 5px;
+  color:#008000;
+}
