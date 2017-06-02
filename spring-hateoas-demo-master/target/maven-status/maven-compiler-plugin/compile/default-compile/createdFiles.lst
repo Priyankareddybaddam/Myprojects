@@ -1,0 +1,6 @@
+com\cor\domain\Album.class
+com\cor\domain\Artist.class
+com\cor\controller\AlbumController.class
+com\cor\Application.class
+com\cor\controller\ArtistController.class
+com\cor\service\MusicService.class
